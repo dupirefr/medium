@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fdpro.blogs.medium.behaviour_parameterization.ListUtilsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-07-10T20:08:44" hostname="LAPTOP-G2DF6GHI" time="0.077">
+  <properties/>
+  <testcase name="indexOfMatchWithPredicate_PersonNamed_Found()" classname="com.fdpro.blogs.medium.behaviour_parameterization.ListUtilsTest" time="0.062"/>
+  <testcase name="indexOfMatch_PersonNamed_Found()" classname="com.fdpro.blogs.medium.behaviour_parameterization.ListUtilsTest" time="0.001"/>
+  <testcase name="indexOfMatch_PersonNamed_NotFound()" classname="com.fdpro.blogs.medium.behaviour_parameterization.ListUtilsTest" time="0.001"/>
+  <testcase name="indexOfMatchWithPredicate_PersonNamed_NotFound()" classname="com.fdpro.blogs.medium.behaviour_parameterization.ListUtilsTest" time="0.002"/>
+  <testcase name="indexOfMatchWithPredicate_PersonAged_Found()" classname="com.fdpro.blogs.medium.behaviour_parameterization.ListUtilsTest" time="0.001"/>
+  <testcase name="indexOfMatch_PersonAged_NotFound()" classname="com.fdpro.blogs.medium.behaviour_parameterization.ListUtilsTest" time="0.001"/>
+  <testcase name="indexOfMatch_PersonAged_Found()" classname="com.fdpro.blogs.medium.behaviour_parameterization.ListUtilsTest" time="0.002"/>
+  <testcase name="indexOfMatchWithPredicate_PersonAged_NotFound()" classname="com.fdpro.blogs.medium.behaviour_parameterization.ListUtilsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
